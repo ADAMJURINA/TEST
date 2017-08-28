@@ -8,4 +8,5 @@
 
 REPORT Z_AAJU_GITHUB.
 
-write 'hello'.
+write 'helo'.
+write 'news'.
